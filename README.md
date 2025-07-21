@@ -98,7 +98,7 @@ CSI-BankingSystem-Project/
 ├── Outputs/
 │   ├── All outputs of different SQL Queries...
 │
-├── Project Report/
+├── Project_Report/
 │   └── Complete_Banking_System_Project_Report_Aniruddha.pdf
 │
 └── README.md
