@@ -1,0 +1,26 @@
+﻿
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+Msg 50000, Level 16, State 1, Procedure DepositMoney, Line 20 [Batch Start Line 0]
+Cannot deposit: Account is frozen.
+Msg 50000, Level 16, State 1, Procedure WithdrawMoney, Line 23 [Batch Start Line 0]
+Cannot withdraw: Account is frozen.
+Msg 50000, Level 16, State 1, Procedure TransferMoney, Line 16 [Batch Start Line 0]
+Invalid account ID(s).
+
+(8 rows affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(3 rows affected)
+
+(1 row affected)
+
+Completion time: 2025-07-21T20:32:31.0214710+05:30

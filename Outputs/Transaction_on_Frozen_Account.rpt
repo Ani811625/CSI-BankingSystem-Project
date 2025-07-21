@@ -1,0 +1,12 @@
+﻿
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+Msg 50000, Level 16, State 1, Procedure DepositMoney, Line 20 [Batch Start Line 0]
+Cannot deposit: Account is frozen.
+
+Completion time: 2025-07-21T18:57:19.7039238+05:30

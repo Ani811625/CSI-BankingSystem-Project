@@ -1,0 +1,8 @@
+CREATE TABLE Branches (
+    BranchID INT PRIMARY KEY IDENTITY(1,1),
+    BranchName VARCHAR(100),
+    BranchCode VARCHAR(10) UNIQUE,
+    City VARCHAR(50),
+    State VARCHAR(50),
+    IFSCCode VARCHAR(11) UNIQUE
+);

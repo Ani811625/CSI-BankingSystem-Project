@@ -1,0 +1,6 @@
+﻿Msg 50000, Level 16, State 1, Procedure DepositMoney, Line 12 [Batch Start Line 0]
+Invalid account ID.
+Msg 50000, Level 16, State 1, Procedure OpenAccount, Line 9 [Batch Start Line 0]
+Invalid Customer ID.
+
+Completion time: 2025-07-21T18:58:09.3031209+05:30

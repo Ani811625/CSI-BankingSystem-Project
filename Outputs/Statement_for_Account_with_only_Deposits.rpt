@@ -1,0 +1,10 @@
+﻿
+(1 row affected)
+
+(1 row affected)
+Msg 50000, Level 16, State 1, Procedure DepositMoney, Line 12 [Batch Start Line 0]
+Invalid account ID.
+
+(0 rows affected)
+
+Completion time: 2025-07-21T20:32:20.4368926+05:30
