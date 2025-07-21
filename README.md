@@ -110,8 +110,8 @@ CSI-BankingSystem-Project/
 
 | Document                            | Link                                                                       |
 |------------------------------------ |----------------------------------------------------------------------------|
-| Full Report PDF                     | [Click Here](./Project Report/Complete_Banking_System_Project_Report_Aniruddha.pdf) |
-| Schema Explanation                  | [View PDF](./Documentation/Schema_Explanation .pdf)                         |
+| Full Report PDF                     | [Click Here](./Project_Report/Complete_Banking_System_Project_Report_Aniruddha.pdf) |
+| Schema Explanation                  | [View PDF](./Documentation/Schema_Explanation.pdf)                          |
 | Stored Procedures Explained         | [View PDF](./Documentation/StoredProcedures_Explanation.pdf)               |
 | Testing Summary                     | [View PDF](./Documentation/Testing_Summary.pdf)                            |
 | Audit & Security Model              | [View PDF](./Documentation/AuditLog_and_Security_Model.pdf)                |
